@@ -1,0 +1,35 @@
+.slol {
+    font-family: sans-serif;
+}
+
+.slol_status {
+    border: 1px solid #495057;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 24px;
+    display: flex;
+}
+
+.slol_user {
+    font-weight: bold;
+}
+
+.slol_emoji {
+    display: flex;
+    align-items: center;
+    font-size: 70px;
+    margin-right: 10px;
+}
+
+.slol_content {
+
+}
+
+.slol_text {
+    font-style: italic;
+}
+
+.slol_time {
+
+}
